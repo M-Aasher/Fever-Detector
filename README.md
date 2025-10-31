@@ -4,10 +4,10 @@ A simple C program that checks if a user has a fever based on their body tempera
 
 # Author & Tech Info
 
-➣ Author: Aasher
-➣ Language Used: C
-➣ Platform/Compiler: Programiz Online Compiler / GCC / Code::Blocks / Turbo C
-➣ Date Created: [31/10/2025]
+➣ Author: Aasher                   
+➣ Language Used: C  
+➣ Platform/Compiler: Programiz Online Compiler / GCC / Code::Blocks / Turbo C  
+➣ Date Created: [31/10/2025]  
 
 ## Purpose
 
