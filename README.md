@@ -30,9 +30,9 @@ You dont have fever
                                                                          
 ## Key Concepts Practiced
 
-➤ Conditional statements (if–else)
-➤ Relational operator (>)
-➤ Input handling with scanf()
-➤ Real-world conditional programming
+➤ Conditional statements (if–else)     
+➤ Relational operator (>)    
+➤ Input handling with scanf()    
+➤ Real-world conditional programming   
 
 
